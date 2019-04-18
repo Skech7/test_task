@@ -1,0 +1,22 @@
+{
+  "accounts": [
+    {
+      "name": "BG37FINV91501003939178  BGN - РАЗПЛ СМЕТКА ФЛ BGN",
+      "currency": "BGN",
+      "nature": "standard",
+      "balance": "141.02"
+    },
+    {
+      "name": "BG10FINV91501003939179  EUR - РАЗПЛ СМЕТКА ФЛ EUR",
+      "currency": "EUR",
+      "nature": "standard",
+      "balance": "0.00"
+    },
+    {
+      "name": "BG35FINV91502003939180  USD",
+      "currency": "USD",
+      "nature": "deposit",
+      "balance": "10.39"
+    }
+  ]
+}
